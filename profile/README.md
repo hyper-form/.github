@@ -1,6 +1,6 @@
 # ✍ Welcome! hyper-form
 
-## 💥 Planing
+## 💥 Planning
 
 - hyper-form-dev-tool - A chrome extension to help hyper-form debug
 - hyper-form-website - A storybook for hyper-form
